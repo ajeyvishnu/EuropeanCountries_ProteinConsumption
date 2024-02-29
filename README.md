@@ -8,8 +8,6 @@ This project explores the dietary patterns and interrelationships between Europe
 
 The dataset includes average grams of protein consumed per person daily from different food sources such as meat, dairy, legumes, grains, and seafood. Each row represents a country, and the columns represent specific food items contributing to protein intake. The dataset provides insights into the dietary habits of European populations and serves as a valuable resource for understanding dietary trends and cultural influences.
 
-**Data Source:** [EuropeanCountries_ProteinConsumption](https://github.com/ajeyvishnu/EuropeanCountries_ProteinConsumption/)
-
 ## Analysis Techniques Used
 
 1. **Principal Component Analysis (PCA):** PCA is used for dimensionality reduction and data visualization. It helps identify patterns and relationships between countries based on their protein consumption patterns.
